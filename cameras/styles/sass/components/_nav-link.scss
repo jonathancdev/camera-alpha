@@ -1,0 +1,8 @@
+.nav-link {
+  &:not(:first-child) {
+    margin-left: 0.5rem;
+  }
+  &.underline {
+    text-decoration: underline;
+  }
+}

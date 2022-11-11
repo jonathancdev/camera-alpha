@@ -1,0 +1,2032 @@
+{
+  "cameras": [
+    {
+      "_id": "635e476cf38cbbd0944d38d5",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Minolta",
+      "type": "rangefinder",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Labore sunt officia quis aliqua nulla aliqua tempor Lorem sit. Duis laboris excepteur sint incididunt adipisicing amet aliquip. Nostrud ad ut labore deserunt tempor. Cillum ad tempor eu est excepteur ad. Veniam amet est reprehenderit in eiusmod esse dolor culpa pariatur ea. Ut dolore irure occaecat officia veniam est fugiat proident nisi. Occaecat qui adipisicing enim aliquip elit proident nostrud Lorem duis.\r\n",
+      "tags": [
+        "point and shoot",
+        "Canon",
+        "point and shoot",
+        "auto",
+        "auto",
+        120,
+        "SLR"
+      ]
+    },
+    {
+      "_id": "635e476ca211737855dd7da9",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Nikon",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Nostrud do exercitation mollit excepteur ex aute occaecat pariatur proident aute consequat aute pariatur. Nostrud labore ad commodo esse labore veniam. Aliquip labore et ipsum consequat nisi id duis. Adipisicing excepteur aliqua amet voluptate nostrud cillum Lorem anim amet consectetur velit nisi amet aute. Ipsum duis ut tempor id. Non elit dolor incididunt quis.\r\n",
+      "tags": ["Canon", "auto", "auto", "auto", "manual", 120, "auto"]
+    },
+    {
+      "_id": "635e476c7d7ffaf23a109112",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Olympus",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Officia ullamco occaecat consequat eiusmod mollit eiusmod veniam laborum occaecat esse minim. Ut aliquip sunt irure cillum est minim velit in aliquip dolor pariatur velit eiusmod. Culpa id ex magna nulla cupidatat est tempor laboris officia pariatur sint in exercitation. Irure reprehenderit enim eiusmod amet sint fugiat duis laborum minim aute cillum quis id nostrud.\r\n",
+      "tags": ["Canon", "manual", "auto", "SLR", 120, "Canon", "SLR"]
+    },
+    {
+      "_id": "635e476c7d5ce687615829d6",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Leica",
+      "type": "rangefinder",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Nisi irure tempor dolore aliqua eiusmod aute tempor irure aliquip amet ex et anim cupidatat. Proident cupidatat consectetur tempor eu ullamco sit velit consequat excepteur dolore occaecat non. Anim non excepteur commodo eiusmod fugiat ea amet consequat. Sunt cupidatat elit ea nulla reprehenderit dolore incididunt consectetur. Ea ea in labore exercitation nisi eiusmod nulla esse. Labore labore eu eu non fugiat mollit sunt. Pariatur laborum amet nulla qui anim magna Lorem sint.\r\n",
+      "tags": [120, "manual", "manual", "SLR", "manual", "35mm", 120]
+    },
+    {
+      "_id": "635e476cfa21383797615235",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Nikon",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Occaecat dolore aute et minim velit elit sint consequat in voluptate dolor pariatur exercitation reprehenderit. Ipsum sunt eu reprehenderit incididunt do quis duis. Sunt consequat id exercitation mollit nisi exercitation. Qui elit irure excepteur sint non in sit occaecat exercitation ea velit aliqua. Id labore eu tempor occaecat veniam consectetur. Adipisicing fugiat culpa anim do consequat.\r\n",
+      "tags": [
+        "35mm",
+        "auto",
+        "Canon",
+        "auto",
+        "35mm",
+        "manual",
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476ce58cc4f7619579c9",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Nikon",
+      "type": "rangefinder",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Dolor incididunt ullamco id pariatur anim. Incididunt sint incididunt adipisicing ad in dolore eiusmod ullamco quis qui ea Lorem. Anim reprehenderit deserunt mollit quis fugiat in excepteur ad ex et eu. Aliquip commodo enim aliqua fugiat et ex labore nulla est non esse nisi. Qui et excepteur in pariatur adipisicing eiusmod. Cillum aute nostrud est consequat do magna cillum ea. Qui cupidatat cupidatat quis cupidatat amet eiusmod occaecat aute.\r\n",
+      "tags": ["SLR", "SLR", "SLR", "manual", "auto", "SLR", "point and shoot"]
+    },
+    {
+      "_id": "635e476c64aab1cc6dd38c3b",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Canon",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Do dolor id sit dolore culpa elit aliqua aliqua minim. Eiusmod tempor aute nisi minim eiusmod anim incididunt commodo. Est anim adipisicing incididunt eu. Id amet nisi esse pariatur aliquip irure amet officia dolor. Elit deserunt consectetur dolore fugiat tempor. Ipsum veniam velit Lorem dolore commodo ut laboris.\r\n",
+      "tags": [
+        120,
+        "Canon",
+        "point and shoot",
+        "point and shoot",
+        "Canon",
+        120,
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c156e00ae105237a9",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Olympus",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Tempor do sunt duis esse amet. Commodo culpa cupidatat ipsum ipsum. Esse mollit tempor qui excepteur aliquip laboris nostrud deserunt in cupidatat eiusmod cupidatat deserunt quis. Laboris Lorem reprehenderit aliquip ad esse nostrud. Ea anim sit ullamco fugiat labore amet commodo ad culpa tempor irure do.\r\n",
+      "tags": [
+        "Canon",
+        "SLR",
+        "SLR",
+        "35mm",
+        "point and shoot",
+        "Canon",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476cf5954eaeadbb296e",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Olympus",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Laborum in nulla occaecat occaecat elit sunt culpa eu. Officia pariatur laborum proident est. Laborum consequat eiusmod reprehenderit esse enim ex ipsum tempor in Lorem in proident. Ut pariatur aliquip mollit occaecat. Proident laboris eiusmod mollit dolor. Consectetur est et consectetur magna proident minim.\r\n",
+      "tags": [
+        "auto",
+        "manual",
+        "manual",
+        "auto",
+        "point and shoot",
+        "Canon",
+        "SLR"
+      ]
+    },
+    {
+      "_id": "635e476cf2fa0b44b315a8aa",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Nikon",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Laborum amet cupidatat nulla in ad occaecat aliqua mollit. Adipisicing cupidatat ad laboris fugiat dolore dolor ea. Ut voluptate deserunt commodo laboris amet. Anim nostrud cupidatat nulla officia ad fugiat aute esse do exercitation reprehenderit ut enim. Eu consequat consequat magna ut qui. Ex ad voluptate quis ad proident eu anim occaecat esse nostrud anim sunt.\r\n",
+      "tags": [
+        "Canon",
+        "manual",
+        "point and shoot",
+        "auto",
+        "Canon",
+        "point and shoot",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476ca7d9ac750a952ebb",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Olympus",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Sit occaecat dolore ullamco aliqua id sunt eiusmod aliquip nisi cillum commodo. Dolor dolor laborum in labore qui cillum qui. Eiusmod deserunt consectetur minim occaecat amet cupidatat et cupidatat ex. Ullamco in ex dolor officia non pariatur Lorem nisi ad ullamco do culpa aliquip. Est incididunt id et fugiat. Excepteur qui laboris aliqua nulla quis nulla ullamco ea eiusmod eiusmod fugiat et.\r\n",
+      "tags": ["auto", "auto", "manual", "SLR", "manual", "SLR", "auto"]
+    },
+    {
+      "_id": "635e476c7c800e46b7b70437",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Leica",
+      "type": "TLR",
+      "format": 120,
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Nisi enim aliquip qui aliqua aliquip incididunt aute ipsum consequat. Est do deserunt enim Lorem ad in. Irure cupidatat duis ea ea ipsum ut. Ex laborum elit exercitation nulla ad anim cillum nostrud cupidatat quis amet ut ea. Lorem do occaecat laboris nisi labore dolore veniam commodo consequat elit in adipisicing occaecat non. Exercitation anim excepteur dolor mollit commodo esse magna officia non eiusmod reprehenderit non. Aliquip deserunt in cillum culpa culpa nostrud velit sint culpa commodo id excepteur minim.\r\n",
+      "tags": ["Canon", "manual", 120, "Canon", "manual", "35mm", "auto"]
+    },
+    {
+      "_id": "635e476ca654a3d92ab2cdf4",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Canon",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Id do qui minim id tempor et ipsum ex commodo voluptate cupidatat esse aute eiusmod. Excepteur elit consectetur irure veniam ipsum aute sit nostrud officia quis irure. Tempor non esse consequat mollit adipisicing id incididunt laborum aute eiusmod deserunt excepteur. Aliquip elit nostrud anim consectetur cupidatat nisi quis fugiat. Dolor Lorem amet cillum qui fugiat enim elit anim cupidatat elit nisi voluptate amet est. Sit laborum in magna pariatur elit enim quis ullamco. Consectetur ut adipisicing et est anim id.\r\n",
+      "tags": ["35mm", 120, "35mm", "manual", "35mm", 120, "auto"]
+    },
+    {
+      "_id": "635e476cbef87f12f155c003",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Olympus",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Cupidatat cillum aliquip voluptate pariatur reprehenderit ex voluptate est excepteur. Nostrud est deserunt consequat nostrud magna voluptate. Officia minim do magna est labore. Ipsum deserunt aliquip ut do mollit cupidatat nostrud ut aute enim. Ad labore ullamco Lorem ea enim adipisicing deserunt enim cupidatat irure ea irure. Ullamco irure magna duis voluptate quis voluptate. Elit in nulla adipisicing irure anim.\r\n",
+      "tags": [
+        "manual",
+        "point and shoot",
+        120,
+        "35mm",
+        "Canon",
+        "Canon",
+        "SLR"
+      ]
+    },
+    {
+      "_id": "635e476c99fab3565ee00f8c",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Olympus",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Elit exercitation nisi velit nulla duis irure amet ullamco nostrud id enim nostrud sunt irure. Quis nulla do reprehenderit velit do duis non laborum fugiat nostrud. Nulla nisi esse esse ut dolore. Aliquip elit velit sit sit amet amet labore ipsum quis. Dolor aute consectetur sint in ut exercitation excepteur consectetur consectetur tempor dolor sunt Lorem. Amet ad aliquip fugiat laboris officia dolore ullamco consectetur aliquip anim nostrud qui laboris. Cillum qui nulla anim do cupidatat velit id fugiat.\r\n",
+      "tags": [120, "manual", 120, "35mm", "point and shoot", "manual", "Canon"]
+    },
+    {
+      "_id": "635e476c8d8528f69cc759a5",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Mamiya",
+      "type": "point and shoot",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Et velit voluptate laborum laboris et aliqua dolor dolor. Cupidatat sit nisi enim consequat duis velit sunt quis velit duis. Ullamco minim in sit commodo ad eiusmod. Non ea est cupidatat nostrud et ad sit aute sit commodo est. Ullamco qui laborum qui fugiat excepteur occaecat ipsum. Pariatur duis laboris anim incididunt occaecat incididunt dolore esse commodo voluptate.\r\n",
+      "tags": [
+        "auto",
+        "Canon",
+        "point and shoot",
+        "manual",
+        120,
+        "35mm",
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476ca22d226d81bf9dbb",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Mamiya",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Mollit ad do elit labore cillum aliquip incididunt amet in veniam. Proident incididunt in exercitation minim duis deserunt eu ullamco. Qui sunt dolore elit eiusmod voluptate enim dolor sunt non incididunt nulla sit irure laborum. Esse consequat nisi culpa officia duis sit fugiat aute mollit id velit magna. Cupidatat in adipisicing do laboris do minim. Reprehenderit dolor dolore pariatur amet labore Lorem amet laborum magna id fugiat reprehenderit ex. Sit aute ad non sit ullamco ex ut esse aute.\r\n",
+      "tags": ["Canon", "Canon", "Canon", 120, 120, "manual", 120]
+    },
+    {
+      "_id": "635e476cf61a86097de6ef19",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Nikon",
+      "type": "rangefinder",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Labore eu aliquip reprehenderit eiusmod tempor. Consequat in consequat consectetur aliqua. Cupidatat commodo minim fugiat incididunt consequat aute tempor. Aliqua pariatur minim culpa laboris et nostrud velit occaecat eu anim qui. Consectetur officia elit pariatur Lorem mollit proident mollit magna nulla irure deserunt. Enim duis laboris ullamco est tempor fugiat laboris non aute ullamco ex nulla.\r\n",
+      "tags": [120, "Canon", "manual", 120, "point and shoot", "auto", "SLR"]
+    },
+    {
+      "_id": "635e476c2b1278366a58cabd",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Nikon",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Nisi ad ea voluptate amet non elit dolor sunt nostrud id deserunt ipsum ut. Deserunt aliqua cupidatat ut magna nostrud tempor aliquip. Culpa culpa laboris ullamco non. Dolore sunt duis eu cillum. Culpa in ex esse aute veniam ullamco consequat est. Veniam mollit do id ex ea do.\r\n",
+      "tags": ["manual", "Canon", "SLR", "auto", "manual", "35mm", "SLR"]
+    },
+    {
+      "_id": "635e476cc9b213f796e17818",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Commodo Lorem enim magna ex minim consequat nisi esse nisi. Anim sit ex nulla duis voluptate ut magna sint qui. Officia eiusmod laborum excepteur enim laborum. Do exercitation incididunt exercitation eiusmod ad culpa laborum et et labore adipisicing sit et. Cillum consequat deserunt nulla incididunt nisi.\r\n",
+      "tags": [
+        "SLR",
+        120,
+        "SLR",
+        "point and shoot",
+        "SLR",
+        "point and shoot",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c655589b8c1d7fc35",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Canon",
+      "type": "SLR",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Deserunt adipisicing et dolor adipisicing. Ea laborum enim excepteur ad. Anim cillum cillum cupidatat sit nisi est amet aliqua nulla eiusmod sit consequat. Culpa reprehenderit eiusmod minim duis amet irure occaecat est.\r\n",
+      "tags": ["auto", "manual", "SLR", "manual", "auto", "35mm", "auto"]
+    },
+    {
+      "_id": "635e476c29ed2bf2a2aebfc8",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Leica",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Nulla ipsum quis labore cillum sint velit est irure pariatur. Cillum do adipisicing do laboris magna. Culpa nostrud pariatur esse amet ad anim occaecat commodo labore excepteur. Laboris ullamco proident mollit est labore ea cillum qui esse eu proident minim commodo laborum. Proident ex deserunt labore nisi tempor.\r\n",
+      "tags": [
+        "manual",
+        "SLR",
+        120,
+        "point and shoot",
+        "point and shoot",
+        "SLR",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476c923420ba19ea4ab5",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Pentax",
+      "type": "rangefinder",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Excepteur irure sunt eu pariatur officia reprehenderit qui tempor. Mollit amet anim et reprehenderit veniam veniam amet et. Non irure consequat ipsum reprehenderit eiusmod enim. Culpa ad minim pariatur fugiat tempor quis dolore ipsum cillum Lorem amet commodo reprehenderit dolor. Aliquip minim velit qui aliqua elit minim sint duis amet quis ut magna labore. Ex in adipisicing eiusmod eiusmod elit veniam excepteur cupidatat id. Officia laborum consequat consequat eu aliquip eu magna fugiat laboris.\r\n",
+      "tags": [
+        120,
+        "35mm",
+        "point and shoot",
+        "auto",
+        "Canon",
+        "point and shoot",
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476cd15b87e296b041cd",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Canon",
+      "type": "rangefinder",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "In do mollit consequat aliqua cillum cillum ipsum elit. Consectetur aliquip non irure velit amet qui ut est culpa proident commodo duis officia. Magna deserunt voluptate minim dolore exercitation culpa enim deserunt nisi Lorem.\r\n",
+      "tags": ["auto", "point and shoot", "35mm", "auto", "manual", 120, "SLR"]
+    },
+    {
+      "_id": "635e476c27fefd7df413adce",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Canon",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Do culpa dolor labore duis laboris labore consectetur. Voluptate sit laborum anim aliqua non culpa eiusmod deserunt culpa mollit. Exercitation et nostrud adipisicing ad cupidatat irure nulla nostrud non laboris velit aliquip culpa.\r\n",
+      "tags": [
+        "35mm",
+        "auto",
+        "Canon",
+        "Canon",
+        "point and shoot",
+        "auto",
+        "manual"
+      ]
+    },
+    {
+      "_id": "635e476c37e44672a222da47",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Pentax",
+      "type": "rangefinder",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Excepteur cillum cupidatat commodo deserunt. Et et tempor in ex nisi amet exercitation id ut pariatur. Fugiat occaecat aute eiusmod aliquip. Lorem incididunt consequat commodo aute fugiat voluptate ut enim velit dolore. Amet cillum ut deserunt culpa cupidatat duis quis irure tempor magna sint tempor et et. Deserunt dolor excepteur duis id.\r\n",
+      "tags": ["point and shoot", 120, "Canon", 120, "35mm", "SLR", "35mm"]
+    },
+    {
+      "_id": "635e476c210673820a249ff3",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Pentax",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Ut reprehenderit aute mollit laboris sunt voluptate. Est fugiat dolor magna consequat elit voluptate veniam ut laborum do sit sit labore dolore. Dolore laborum sit reprehenderit culpa mollit nostrud.\r\n",
+      "tags": [
+        "point and shoot",
+        "point and shoot",
+        120,
+        120,
+        "manual",
+        "point and shoot",
+        "auto"
+      ]
+    },
+    {
+      "_id": "635e476c542a0517adb12564",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Mamiya",
+      "type": "point and shoot",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Id labore sunt ex tempor non eu irure. Esse aliquip mollit laboris quis laboris nulla magna dolore do mollit. Esse consectetur cupidatat nulla dolor ut ea culpa culpa. Reprehenderit proident officia dolor Lorem sint ipsum deserunt eiusmod aliquip nisi pariatur laboris. Cupidatat velit ad veniam sunt. Incididunt nulla labore et adipisicing sint ex do tempor qui tempor. Mollit ad amet exercitation consequat.\r\n",
+      "tags": [
+        "auto",
+        "point and shoot",
+        "SLR",
+        "point and shoot",
+        "Canon",
+        120,
+        "manual"
+      ]
+    },
+    {
+      "_id": "635e476cb13eecf790ace233",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Leica",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Ipsum voluptate culpa quis dolor ipsum occaecat voluptate magna id cupidatat eiusmod veniam in. Ex incididunt et quis proident irure esse elit amet enim non. Nostrud ex est dolore exercitation consectetur ex aute adipisicing cupidatat ullamco officia deserunt est. Voluptate reprehenderit et aute amet. Officia ex fugiat ad pariatur.\r\n",
+      "tags": ["auto", "Canon", "35mm", "SLR", "35mm", "35mm", "SLR"]
+    },
+    {
+      "_id": "635e476cb77e6d693c970477",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Nikon",
+      "type": "TLR",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Eiusmod proident officia elit qui magna enim adipisicing commodo excepteur culpa Lorem est. Consectetur qui velit voluptate sit. Non consequat ea exercitation sint aliqua excepteur ad exercitation et aliqua non aliquip. Nisi mollit eu minim anim esse irure adipisicing exercitation. Eu qui tempor veniam et mollit. Voluptate pariatur magna cupidatat culpa tempor ut minim qui aute ex amet dolore excepteur incididunt.\r\n",
+      "tags": ["auto", "Canon", "point and shoot", "auto", 120, "auto", "auto"]
+    },
+    {
+      "_id": "635e476cf3cb7c6a74e8161d",
+      "isFeatured": true,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": 120,
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Laborum id sint tempor dolor veniam. Nostrud in id adipisicing amet culpa enim sit laboris velit consectetur. Velit reprehenderit Lorem et fugiat. Enim in eiusmod sunt sunt culpa velit adipisicing.\r\n",
+      "tags": ["SLR", "SLR", "manual", "auto", "Canon", "35mm", "Canon"]
+    },
+    {
+      "_id": "635e476ca9dcefa40b1a0908",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Consequat sit id non eiusmod duis laboris magna adipisicing. Velit laboris minim cillum quis fugiat et irure pariatur proident. Velit aute consequat veniam esse Lorem ea et cupidatat elit esse.\r\n",
+      "tags": ["Canon", "point and shoot", "Canon", "SLR", 120, 120, 120]
+    },
+    {
+      "_id": "635e476c120961b77c725368",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Olympus",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Dolore ex nostrud Lorem et do dolor aute culpa. Magna officia ut excepteur eu est id cillum aute cupidatat ullamco ex. Esse voluptate pariatur commodo occaecat ullamco incididunt tempor exercitation tempor. Commodo Lorem do elit ut nisi tempor proident aliqua id exercitation qui voluptate excepteur. Sint nulla magna sunt cillum dolor aliqua. Ex ex labore velit mollit commodo ut voluptate voluptate adipisicing.\r\n",
+      "tags": ["Canon", "Canon", "SLR", "35mm", "SLR", "manual", 120]
+    },
+    {
+      "_id": "635e476cebfe7d5a2ac565f9",
+      "isFeatured": true,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Nulla exercitation nostrud Lorem irure consectetur ut enim tempor. Minim amet exercitation eiusmod exercitation et nulla nostrud irure. Ad consectetur dolore elit duis laborum culpa minim consectetur officia minim. Officia pariatur amet excepteur ea minim culpa aliqua. Ut tempor aliqua fugiat incididunt sunt incididunt sit minim proident veniam tempor. Lorem voluptate officia Lorem est fugiat irure magna tempor.\r\n",
+      "tags": [
+        "auto",
+        "point and shoot",
+        "35mm",
+        "SLR",
+        "point and shoot",
+        "auto",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c2f60ac7202ec3e2a",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Pentax",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Aliquip exercitation amet veniam nostrud est labore ad id. Id ut pariatur excepteur ipsum reprehenderit sint excepteur culpa ea non proident fugiat excepteur qui. Anim mollit consequat magna et est adipisicing id magna excepteur in duis ad nisi ex. Sit irure ad mollit commodo. Pariatur laboris velit esse adipisicing.\r\n",
+      "tags": ["SLR", "point and shoot", "35mm", "35mm", "35mm", 120, "manual"]
+    },
+    {
+      "_id": "635e476c8af3d8c422e78a8a",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Nikon",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Labore laboris fugiat ipsum eiusmod esse. Ad quis fugiat aliqua culpa in eiusmod elit nostrud id. Aliquip et velit esse enim incididunt ullamco eiusmod reprehenderit officia excepteur occaecat dolor fugiat laboris. Consequat magna aliquip fugiat aliqua amet anim magna consequat laboris veniam. Cupidatat consectetur occaecat in consectetur excepteur consectetur pariatur sunt.\r\n",
+      "tags": [120, 120, "Canon", 120, "SLR", "35mm", "35mm"]
+    },
+    {
+      "_id": "635e476c730f440b6af00055",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Minolta",
+      "type": "TLR",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Cillum pariatur id velit Lorem. Ut cillum Lorem aliquip tempor. Amet anim labore excepteur nulla eu pariatur sint dolore officia occaecat elit. Tempor consequat sint fugiat consequat. Ut anim excepteur nisi culpa anim fugiat cillum minim laborum aliquip pariatur ea.\r\n",
+      "tags": [
+        "point and shoot",
+        120,
+        "auto",
+        "35mm",
+        "Canon",
+        "point and shoot",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476c2153266990751fd8",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Mamiya",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Id ad mollit eiusmod elit esse consectetur occaecat eu ipsum adipisicing nostrud esse quis anim. Commodo nostrud ut eiusmod ullamco exercitation dolore qui aliqua consectetur aliquip exercitation enim. Non consequat reprehenderit anim commodo do labore ea nostrud adipisicing adipisicing. Incididunt et non eiusmod qui aute occaecat. Ea est ad amet commodo laborum est sint mollit nostrud laborum reprehenderit. Esse eiusmod veniam ullamco et ex magna esse quis excepteur magna consectetur. Minim exercitation sunt ea est do velit veniam anim eiusmod commodo.\r\n",
+      "tags": ["SLR", 120, "auto", "auto", "SLR", "SLR", "manual"]
+    },
+    {
+      "_id": "635e476cd2d6b615508093f4",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Olympus",
+      "type": "SLR",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Dolor consectetur elit occaecat sint et ex quis ullamco. Elit mollit duis fugiat exercitation eu cupidatat cupidatat incididunt excepteur do aute sit labore ad. Eu ipsum nisi duis aliqua irure nulla consequat ex enim aliqua dolore consectetur nostrud. Dolore laboris minim non cupidatat non.\r\n",
+      "tags": ["35mm", 120, "manual", "35mm", 120, 120, "auto"]
+    },
+    {
+      "_id": "635e476c4206c48c4577aa7e",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Canon",
+      "type": "rangefinder",
+      "format": 120,
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Cillum Lorem incididunt officia id velit sit nulla reprehenderit aute tempor eu. Aute sit magna sit consequat. Fugiat do anim duis tempor veniam ut amet. Voluptate enim nisi quis velit est cillum veniam tempor. Minim anim Lorem voluptate proident ullamco sunt duis enim consectetur.\r\n",
+      "tags": ["auto", "point and shoot", "SLR", "SLR", "Canon", "auto", "auto"]
+    },
+    {
+      "_id": "635e476cc2aab5825ed402bb",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Canon",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "In excepteur do consequat nulla pariatur sit aliquip ullamco veniam. In incididunt Lorem excepteur mollit nulla deserunt ex consequat tempor reprehenderit adipisicing laboris in. Irure proident laboris occaecat pariatur proident ut proident sunt mollit sit. Proident dolore excepteur tempor aliquip in ipsum voluptate voluptate ex dolore aute eiusmod eiusmod veniam.\r\n",
+      "tags": [120, "35mm", 120, 120, "point and shoot", "auto", "SLR"]
+    },
+    {
+      "_id": "635e476c5f6f8afd1d38c770",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Olympus",
+      "type": "rangefinder",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Occaecat magna deserunt aliqua esse aliqua duis Lorem veniam tempor deserunt eu pariatur aliqua officia. Officia qui ullamco ad nostrud magna in ullamco Lorem nisi. Occaecat nulla reprehenderit fugiat irure. Aute qui dolore proident nisi. Officia elit sint quis minim duis incididunt non do anim excepteur esse labore.\r\n",
+      "tags": [120, "auto", "35mm", 120, "point and shoot", "35mm", "auto"]
+    },
+    {
+      "_id": "635e476cb28375fcfd5ea834",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Canon",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Irure cupidatat veniam elit voluptate ad non magna laborum sunt consectetur. Exercitation commodo laborum eu ad. Veniam id ex irure incididunt. Esse elit dolore sunt labore ullamco sint veniam tempor id ipsum pariatur dolore. Sit qui consequat nisi ex cillum ipsum id. Id incididunt consectetur ea dolore nulla elit tempor sit commodo consectetur tempor amet qui Lorem.\r\n",
+      "tags": ["manual", "Canon", "Canon", "auto", "auto", "manual", 120]
+    },
+    {
+      "_id": "635e476cff59599f11d8d90f",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Minolta",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Proident deserunt mollit ut non magna proident. Duis cupidatat exercitation amet ex labore cillum dolore in occaecat. Eu eiusmod proident adipisicing occaecat magna ipsum non sunt fugiat qui voluptate nisi. Nisi consectetur sint dolor ex Lorem exercitation adipisicing voluptate consectetur ipsum sunt veniam velit. In elit culpa veniam labore laboris dolore cupidatat fugiat. Officia consectetur anim quis id eu et. Proident labore ut ipsum cupidatat fugiat nostrud dolore anim.\r\n",
+      "tags": ["35mm", "SLR", "Canon", "SLR", "Canon", "SLR", "manual"]
+    },
+    {
+      "_id": "635e476c93888d20c2be3881",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Fugiat magna consequat ex laboris et excepteur sint pariatur labore reprehenderit dolor reprehenderit cupidatat sunt. Dolore sunt non incididunt elit sunt sit mollit deserunt in nostrud occaecat consequat laborum cillum. Esse commodo est proident consequat Lorem velit. Magna irure nostrud anim aliquip dolor culpa deserunt. Velit qui magna fugiat ipsum exercitation minim ut aliquip ipsum cupidatat sint. Qui et sint ipsum quis reprehenderit ut proident mollit cillum et adipisicing ex.\r\n",
+      "tags": [
+        "manual",
+        "35mm",
+        "auto",
+        "35mm",
+        "35mm",
+        "SLR",
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476c9b5fc22c741a3cee",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Leica",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Quis aliqua fugiat Lorem exercitation dolor culpa nisi dolor. Laboris labore et sunt nisi exercitation. Ex occaecat culpa qui aliquip veniam officia mollit ullamco esse. Nulla incididunt enim aliqua nostrud. Laboris laborum aliquip in sunt consequat. Aliqua tempor dolore excepteur ex duis sunt ut laboris veniam et pariatur.\r\n",
+      "tags": ["35mm", "SLR", "SLR", "SLR", "Canon", "Canon", "manual"]
+    },
+    {
+      "_id": "635e476cf4c6914d83ecb288",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Nikon",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Irure exercitation ea Lorem consectetur id laborum non reprehenderit adipisicing duis Lorem esse. Nostrud amet fugiat dolor velit labore. Est reprehenderit tempor anim nulla. Cillum ea tempor cupidatat labore in cillum ad et tempor sunt. Dolore irure magna pariatur tempor sint quis consectetur nulla in irure consectetur. Aliquip aliquip commodo nulla magna in in ut incididunt et tempor. Ex amet id laboris adipisicing elit adipisicing officia laboris tempor quis proident pariatur enim veniam.\r\n",
+      "tags": [
+        "point and shoot",
+        "SLR",
+        "Canon",
+        "35mm",
+        "auto",
+        120,
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476cdd654d74bf305a46",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Nikon",
+      "type": "rangefinder",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Duis cupidatat dolor sit et do nulla sunt et. Incididunt incididunt eiusmod ea consectetur aliquip esse exercitation et. Sunt dolor adipisicing deserunt nulla proident labore. Ut officia cillum eu non laborum nostrud consequat cillum dolor. Deserunt non labore eu qui id ullamco consequat quis duis pariatur elit. Magna adipisicing aliqua est aliquip nisi eu minim.\r\n",
+      "tags": ["manual", "SLR", "SLR", "manual", "35mm", "35mm", "auto"]
+    },
+    {
+      "_id": "635e476c4056c12bc2550d7e",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Nikon",
+      "type": "TLR",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Aliquip aliqua labore ea velit laborum eiusmod sint. Deserunt laboris laborum occaecat consectetur eiusmod eu Lorem veniam ex commodo adipisicing fugiat. Amet exercitation reprehenderit consequat mollit. Proident irure nulla non reprehenderit magna occaecat nisi.\r\n",
+      "tags": ["manual", "35mm", "35mm", "manual", "manual", 120, "auto"]
+    },
+    {
+      "_id": "635e476ce8c52857ed11be55",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Leica",
+      "type": "TLR",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Tempor magna anim ad voluptate laborum. Aute Lorem cupidatat qui eiusmod ad nisi nostrud voluptate. Fugiat commodo aliquip in magna labore exercitation sit duis id esse ad. Nisi cillum commodo aute ipsum et cillum veniam id minim officia cillum.\r\n",
+      "tags": [
+        "SLR",
+        "35mm",
+        "point and shoot",
+        "SLR",
+        "35mm",
+        "point and shoot",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476c819fe766838a6692",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Nikon",
+      "type": "TLR",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Sit laboris anim occaecat reprehenderit anim laborum laboris consequat laboris. Consectetur velit deserunt ex deserunt tempor proident elit commodo ad laborum. Proident proident tempor nisi commodo eu id elit nisi do. Labore exercitation voluptate ex velit esse sunt mollit tempor velit.\r\n",
+      "tags": ["Canon", "SLR", "auto", "manual", "Canon", 120, "Canon"]
+    },
+    {
+      "_id": "635e476c8d6fa345ae7f23ef",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Pentax",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Velit cillum irure ea veniam anim magna enim et deserunt aute. Ad do cupidatat reprehenderit dolor nulla exercitation ex. Minim exercitation ad adipisicing commodo adipisicing deserunt nulla eiusmod anim excepteur elit est pariatur. Excepteur ut dolor id officia cupidatat minim occaecat sunt nisi aliqua. Ullamco duis ipsum in velit incididunt laborum ut. Excepteur occaecat ad ea ea consequat Lorem minim voluptate id nulla incididunt nulla.\r\n",
+      "tags": [
+        "Canon",
+        "manual",
+        120,
+        "Canon",
+        "35mm",
+        "point and shoot",
+        "auto"
+      ]
+    },
+    {
+      "_id": "635e476c3229552941f8c5a8",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Olympus",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Deserunt ex deserunt ipsum voluptate qui non enim voluptate minim veniam consequat minim. Elit pariatur quis ut tempor ea occaecat et in est aute nisi enim proident fugiat. Adipisicing duis ipsum excepteur voluptate est dolore do incididunt anim. Ad exercitation sint commodo aliqua. Laboris est laboris ex commodo incididunt esse laboris occaecat. Labore fugiat cillum tempor dolor est irure nisi dolor excepteur sunt pariatur pariatur.\r\n",
+      "tags": ["SLR", "manual", "Canon", "Canon", "35mm", "SLR", 120]
+    },
+    {
+      "_id": "635e476cf56a3bfb8c2c6280",
+      "isFeatured": false,
+      "name": "ZT",
+      "brand": "Minolta",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Non duis reprehenderit culpa amet enim aliqua laboris cillum. Quis dolore et nisi pariatur in velit ea nisi Lorem fugiat voluptate in id. Duis sint cupidatat do Lorem. Minim aliquip culpa ut incididunt aute. Sint reprehenderit eiusmod mollit minim dolor mollit aute voluptate exercitation minim ea ipsum. Enim sint consectetur id ullamco consequat Lorem quis esse. Amet magna ipsum exercitation ullamco id ad laboris nulla elit ex pariatur excepteur ut ipsum.\r\n",
+      "tags": ["35mm", "35mm", 120, "35mm", "35mm", "auto", "auto"]
+    },
+    {
+      "_id": "635e476c571b3b7ba1c077cf",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Sunt nisi aliquip dolore culpa duis eu officia excepteur qui non eiusmod aliqua exercitation. Sunt eu esse do sunt exercitation sint sunt. Sunt elit eiusmod est id fugiat eiusmod nulla Lorem duis nisi. Sint enim quis esse aliqua ea ipsum irure exercitation ex nostrud irure Lorem velit. Magna et anim minim sunt mollit elit ex ut. Non enim adipisicing culpa labore magna aliqua incididunt.\r\n",
+      "tags": [
+        "Canon",
+        "manual",
+        "Canon",
+        "SLR",
+        "point and shoot",
+        "point and shoot",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c59431d7a9099ef40",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Canon",
+      "type": "TLR",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Eiusmod aliqua irure sint adipisicing qui esse ut. Est nisi in qui eiusmod labore id eu dolor nostrud proident et qui. Quis duis ullamco veniam laboris eu do anim cupidatat consectetur cillum tempor est aliqua. Nostrud minim sint reprehenderit aliquip est eiusmod velit.\r\n",
+      "tags": ["manual", "auto", "Canon", 120, "auto", "auto", "manual"]
+    },
+    {
+      "_id": "635e476c13a766baf113f597",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Olympus",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Cupidatat ex voluptate nulla non. Exercitation est voluptate exercitation pariatur. Id veniam cillum veniam adipisicing ullamco. Cupidatat dolore ex commodo nisi in labore pariatur incididunt do aliquip laborum.\r\n",
+      "tags": ["manual", "manual", "manual", "Canon", "SLR", "manual", "manual"]
+    },
+    {
+      "_id": "635e476c68155ae00a07105c",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Olympus",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Amet dolor commodo occaecat commodo Lorem eu enim. Excepteur ut duis nulla ullamco Lorem excepteur ad id consequat aliquip elit. Aliqua sint voluptate consectetur fugiat eu sunt ipsum eu non ut nulla velit labore. Velit Lorem fugiat occaecat elit est id. Exercitation aliquip reprehenderit ea veniam deserunt proident dolore et sint. Qui ut exercitation quis nostrud ipsum amet laboris ut non culpa dolore pariatur consequat aliquip. Duis deserunt fugiat ea magna do ex ullamco elit exercitation ex excepteur minim excepteur laboris.\r\n",
+      "tags": [
+        "SLR",
+        "point and shoot",
+        "35mm",
+        "auto",
+        "manual",
+        "manual",
+        120
+      ]
+    },
+    {
+      "_id": "635e476c9da7530cc7cb9e0f",
+      "isFeatured": true,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Pentax",
+      "type": "point and shoot",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Est in officia aute laborum ullamco voluptate mollit laborum ipsum. Aliqua sint sint aute deserunt mollit ea dolore fugiat commodo eiusmod occaecat excepteur nulla. Cillum reprehenderit pariatur proident fugiat reprehenderit in Lorem in aliquip ut dolor. Ipsum ipsum id veniam et sint duis deserunt nulla occaecat Lorem. Nulla dolore occaecat quis cupidatat voluptate labore reprehenderit consectetur irure. Anim aliquip mollit eiusmod anim.\r\n",
+      "tags": [120, "35mm", 120, "point and shoot", "manual", "auto", "Canon"]
+    },
+    {
+      "_id": "635e476c0ce7f48a8dc669ae",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Canon",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Ea incididunt reprehenderit adipisicing cillum mollit est est elit nulla cillum pariatur deserunt cillum ad. Officia exercitation proident Lorem veniam ad fugiat esse. Officia qui aliquip laborum cillum do anim sint est velit exercitation velit. Non consequat culpa magna do sint tempor minim.\r\n",
+      "tags": [120, "point and shoot", "35mm", "SLR", 120, "manual", "SLR"]
+    },
+    {
+      "_id": "635e476c388cd6903df26402",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Mamiya",
+      "type": "SLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Ullamco minim duis eiusmod ex do excepteur nulla exercitation qui enim. Non sit fugiat adipisicing fugiat non ullamco voluptate. Cillum anim ex est et ut laboris cupidatat laborum nisi ex incididunt et nisi. Anim adipisicing velit cillum in duis dolor ipsum aliqua culpa nostrud.\r\n",
+      "tags": ["SLR", "SLR", "manual", "35mm", "Canon", "point and shoot", 120]
+    },
+    {
+      "_id": "635e476c962ebb2dac53d8b5",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Mamiya",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Commodo Lorem laborum qui dolore velit cupidatat do enim esse elit officia ut. Ipsum sunt dolore voluptate id nulla laboris non. Eiusmod nisi enim anim deserunt consequat culpa sunt voluptate enim duis mollit. Est sint voluptate dolor commodo ad et veniam. Do sunt labore qui velit proident nisi duis fugiat ullamco in amet dolor reprehenderit.\r\n",
+      "tags": ["35mm", "auto", "SLR", "Canon", "Canon", "35mm", "Canon"]
+    },
+    {
+      "_id": "635e476cea214294f41ffc8e",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Pentax",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Ut ut Lorem ea officia eu velit veniam proident occaecat magna consequat. Sunt laboris laborum excepteur exercitation laborum cupidatat laboris ea pariatur laboris velit amet. Quis sit quis ipsum consequat magna in. Enim occaecat pariatur sit ea quis aute est eu. Adipisicing adipisicing non dolore adipisicing laboris eiusmod irure fugiat qui tempor incididunt proident.\r\n",
+      "tags": [
+        "Canon",
+        "Canon",
+        "manual",
+        120,
+        "35mm",
+        "35mm",
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476c8f4da990bb1f75cd",
+      "isFeatured": false,
+      "name": "ZT",
+      "brand": "Pentax",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Enim labore et exercitation deserunt reprehenderit fugiat deserunt sint mollit nostrud pariatur. Aute esse ex occaecat ad in esse sunt non commodo. Quis aute est laboris est incididunt consectetur. Fugiat elit reprehenderit enim eiusmod qui laborum minim id. Commodo nisi reprehenderit ea enim do. Est duis elit laboris officia cillum do elit occaecat sunt sunt duis nisi. Nisi eiusmod anim eu commodo aliqua irure esse cillum eiusmod sint amet.\r\n",
+      "tags": [
+        "point and shoot",
+        "manual",
+        "Canon",
+        "35mm",
+        "35mm",
+        "35mm",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c87ea2e3fac67c33e",
+      "isFeatured": true,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Dolore officia eu incididunt ex Lorem eu labore duis mollit in ex. Pariatur nisi laborum occaecat in veniam duis aliquip commodo id pariatur fugiat. Ipsum sint ut consequat adipisicing nostrud incididunt sint nisi ad. Anim veniam culpa dolor dolore aliqua voluptate non fugiat ipsum ullamco. Minim adipisicing exercitation non consequat ex voluptate id ea aliquip eiusmod aliquip fugiat sunt. Ullamco irure officia incididunt officia deserunt reprehenderit.\r\n",
+      "tags": [
+        "point and shoot",
+        "manual",
+        "35mm",
+        "35mm",
+        "auto",
+        "SLR",
+        "auto"
+      ]
+    },
+    {
+      "_id": "635e476cd347f71377dbb306",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Olympus",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Anim eiusmod sit veniam irure consectetur consequat enim ullamco adipisicing sunt nisi. Incididunt ut excepteur laboris aliquip sunt. Do dolore ad veniam fugiat nulla officia exercitation sit ex fugiat qui enim. Incididunt nulla deserunt officia reprehenderit voluptate Lorem cillum irure occaecat nostrud. Do reprehenderit qui cupidatat dolore ea labore dolore in officia magna. Id ullamco qui commodo occaecat.\r\n",
+      "tags": ["auto", "Canon", "35mm", "Canon", "35mm", "Canon", "manual"]
+    },
+    {
+      "_id": "635e476ccd03e16cdfa3db81",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Olympus",
+      "type": "TLR",
+      "format": 120,
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Magna exercitation irure laboris mollit veniam sit eiusmod. Commodo aute labore sunt non sunt aliqua. Voluptate duis nisi non nisi pariatur occaecat do voluptate cupidatat. Adipisicing in dolor laboris tempor. Lorem reprehenderit aute nisi enim sunt.\r\n",
+      "tags": ["point and shoot", 120, "35mm", "SLR", 120, "35mm", "Canon"]
+    },
+    {
+      "_id": "635e476cd6fde8e19b01a3c5",
+      "isFeatured": false,
+      "name": "ZT",
+      "brand": "Mamiya",
+      "type": "TLR",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Labore id in cillum occaecat aliquip amet. Excepteur eu mollit velit deserunt voluptate ut. Id velit culpa commodo voluptate aliquip voluptate veniam minim aliquip mollit consequat do do.\r\n",
+      "tags": ["point and shoot", "auto", 120, "manual", "Canon", "35mm", "SLR"]
+    },
+    {
+      "_id": "635e476c5f3b8286a3fe0822",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Canon",
+      "type": "SLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Labore eu dolor est incididunt sit amet culpa culpa magna. Eu ullamco eu non do ipsum minim fugiat cillum do consectetur irure irure. Officia amet magna qui aliquip eiusmod dolore adipisicing enim voluptate amet quis non minim. Consectetur minim commodo laborum magna aute irure amet sunt laborum proident dolore dolore veniam. Cupidatat tempor pariatur mollit laboris.\r\n",
+      "tags": [
+        120,
+        "35mm",
+        "point and shoot",
+        "Canon",
+        "Canon",
+        "35mm",
+        "manual"
+      ]
+    },
+    {
+      "_id": "635e476cc5c08fffb2533e36",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Pentax",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Laboris elit reprehenderit deserunt consequat quis commodo enim et sint. Occaecat ea magna duis culpa ea ullamco commodo ex. Do magna non esse esse occaecat labore culpa adipisicing. Cillum cillum elit anim voluptate sunt proident elit aliquip id pariatur laborum. Irure eu officia magna veniam qui cupidatat quis aute minim aute. Exercitation dolore laboris quis aliqua ipsum aliqua reprehenderit minim labore cillum.\r\n",
+      "tags": ["manual", "SLR", 120, "35mm", 120, "35mm", "point and shoot"]
+    },
+    {
+      "_id": "635e476c45ec63226587fbb3",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Nikon",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Mollit commodo in adipisicing cupidatat ad esse eu aliqua proident. Ullamco fugiat labore non do mollit Lorem. Voluptate incididunt deserunt labore nostrud cupidatat nulla aute deserunt aliquip do officia commodo consequat Lorem. Officia enim nostrud veniam ut fugiat.\r\n",
+      "tags": ["35mm", "auto", "35mm", "SLR", "SLR", "SLR", "point and shoot"]
+    },
+    {
+      "_id": "635e476c42b0e10e2acaf16c",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "In ut nulla dolor exercitation sit irure id amet eu. Elit fugiat nostrud ullamco labore. Veniam voluptate et in fugiat dolor ea irure magna veniam. Ex aliqua est nisi cupidatat irure deserunt minim consectetur nisi duis ullamco commodo quis.\r\n",
+      "tags": ["auto", "auto", "manual", "35mm", "manual", "manual", "Canon"]
+    },
+    {
+      "_id": "635e476ca683e66ddb76d8e9",
+      "isFeatured": false,
+      "name": "ZT",
+      "brand": "Canon",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Velit exercitation velit enim commodo ullamco esse ut elit aliquip consequat. Commodo est Lorem in cillum veniam aliquip ut sint. Ut incididunt commodo do laborum irure occaecat occaecat officia excepteur nisi et. Cillum magna commodo laboris mollit et esse. Exercitation cupidatat labore occaecat et non elit ut est deserunt id exercitation enim enim laborum. Elit eiusmod dolore est ex ullamco excepteur. Labore do consequat tempor cupidatat esse anim do fugiat ipsum.\r\n",
+      "tags": [
+        "point and shoot",
+        "SLR",
+        "manual",
+        120,
+        "Canon",
+        "Canon",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476cf96e25ada0d54daf",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Pentax",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Consequat adipisicing aliquip laborum tempor velit. Irure nostrud ea magna esse pariatur incididunt culpa. Laboris minim eu Lorem incididunt esse id est exercitation aute dolore nisi pariatur proident. Labore quis deserunt occaecat commodo Lorem anim reprehenderit do cillum. Commodo ad culpa Lorem commodo nulla do enim sint minim velit. Consequat ipsum magna cupidatat in deserunt dolore consectetur adipisicing aliquip anim et irure commodo et.\r\n",
+      "tags": ["auto", "SLR", 120, "auto", "auto", "auto", "Canon"]
+    },
+    {
+      "_id": "635e476cb812a80b020643e9",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Proident non laborum ipsum ullamco laboris voluptate sint officia exercitation nulla quis ad. Amet enim eu anim et duis laborum. Cupidatat velit magna laborum deserunt tempor enim sit occaecat labore reprehenderit incididunt quis ullamco. Duis elit consectetur aliquip deserunt laborum dolor ex nisi Lorem. Ea Lorem reprehenderit incididunt fugiat deserunt cillum deserunt nostrud nisi.\r\n",
+      "tags": [
+        "35mm",
+        "Canon",
+        "auto",
+        "Canon",
+        "manual",
+        120,
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476c7de2db74041dd1aa",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Leica",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Excepteur excepteur nisi occaecat dolor labore aliqua. Fugiat velit adipisicing cillum velit nisi aliquip duis nisi consectetur aliqua id. Cillum sit excepteur in ipsum nostrud dolore nostrud.\r\n",
+      "tags": [
+        "manual",
+        "manual",
+        120,
+        "point and shoot",
+        "SLR",
+        "auto",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c53708779067d4cac",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Mamiya",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Aute nulla laboris ut sit aliqua ut pariatur anim eu enim. Deserunt incididunt dolor nisi quis. Tempor dolor aliqua nostrud sit laboris sunt tempor ad. Aute et sunt eu do consectetur laborum ea dolore anim. Non labore nisi do aliquip eu ut. Tempor dolore Lorem reprehenderit in. Elit nostrud laboris incididunt amet.\r\n",
+      "tags": [
+        "point and shoot",
+        "35mm",
+        "auto",
+        "manual",
+        "SLR",
+        "point and shoot",
+        "SLR"
+      ]
+    },
+    {
+      "_id": "635e476cb5a1b9586eeacf62",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "In ipsum enim nulla excepteur deserunt in velit ullamco deserunt consequat velit voluptate nulla fugiat. Elit excepteur consectetur do adipisicing qui nulla labore occaecat. Deserunt tempor elit proident voluptate officia veniam eiusmod in. Sunt sunt dolore consectetur consequat consequat cupidatat incididunt pariatur elit veniam ut excepteur.\r\n",
+      "tags": ["manual", "manual", "auto", "Canon", "35mm", "SLR", "35mm"]
+    },
+    {
+      "_id": "635e476caaf47d3e76f6dc72",
+      "isFeatured": true,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Mamiya",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Laborum in reprehenderit occaecat labore et dolor id proident nulla. Ex est officia Lorem elit adipisicing quis. Et dolor pariatur cupidatat esse eu occaecat laborum minim elit aute laboris. Incididunt duis tempor enim proident nulla. Labore esse fugiat exercitation sit proident ullamco voluptate exercitation sit nisi ea cupidatat.\r\n",
+      "tags": [
+        "point and shoot",
+        "point and shoot",
+        120,
+        "manual",
+        "Canon",
+        "auto",
+        "auto"
+      ]
+    },
+    {
+      "_id": "635e476cb73454fec2726519",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Leica",
+      "type": "SLR",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Minim anim ipsum ad ullamco non Lorem dolor in anim consectetur. Non labore in non enim nulla dolore deserunt aliquip do fugiat nostrud. Elit occaecat excepteur consectetur anim anim occaecat in sit consectetur nostrud cillum commodo tempor. Tempor irure dolor deserunt sint fugiat id nostrud tempor irure cillum. Duis amet amet duis velit dolor aute. Est irure aliquip est laborum mollit elit enim veniam occaecat. Nulla duis duis sit sit nulla sit nostrud et fugiat.\r\n",
+      "tags": ["auto", "35mm", "SLR", 120, "35mm", "auto", "auto"]
+    },
+    {
+      "_id": "635e476c16b802283bcb2114",
+      "isFeatured": false,
+      "name": "ZT",
+      "brand": "Minolta",
+      "type": "rangefinder",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Qui ipsum veniam ad aliqua fugiat adipisicing veniam fugiat aliqua voluptate. In consectetur cupidatat qui do quis id do tempor. Dolore reprehenderit nisi anim eiusmod nulla fugiat est esse aliqua nostrud excepteur. Aliqua exercitation mollit aliqua do elit sint dolore laboris.\r\n",
+      "tags": [
+        "manual",
+        "manual",
+        "35mm",
+        120,
+        "Canon",
+        "point and shoot",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476c6e49b5f78f5d54c0",
+      "isFeatured": false,
+      "name": "Super duper camera",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": 120,
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Reprehenderit nulla esse enim sit incididunt. Do aute occaecat fugiat laborum cupidatat commodo commodo elit. Est dolore laboris velit duis veniam qui excepteur consectetur duis elit. Minim amet aliqua occaecat incididunt. Dolor in ut ad mollit cillum culpa. Deserunt duis incididunt sint non cillum. Pariatur tempor est pariatur commodo ullamco amet ad dolore.\r\n",
+      "tags": ["SLR", "35mm", "manual", "auto", "manual", "35mm", "SLR"]
+    },
+    {
+      "_id": "635e476c441407c7e442ed17",
+      "isFeatured": false,
+      "name": "Bronica 6",
+      "brand": "Leica",
+      "type": "TLR",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Elit pariatur amet amet Lorem aliquip consequat Lorem dolore voluptate eiusmod labore cupidatat velit. Ut cupidatat exercitation aliquip sit voluptate quis ullamco labore ea laborum aliqua. Nostrud anim incididunt est exercitation. Exercitation aliqua et mollit occaecat aliquip mollit laborum sunt amet duis ex culpa irure. Exercitation id elit consectetur excepteur ex tempor irure irure amet. Sint tempor nostrud anim velit occaecat.\r\n",
+      "tags": ["Canon", "Canon", "Canon", 120, "SLR", "manual", "SLR"]
+    },
+    {
+      "_id": "635e476cde2b0c602c720bcf",
+      "isFeatured": false,
+      "name": "ZT",
+      "brand": "Olympus",
+      "type": "TLR",
+      "format": 120,
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Magna aute eu laborum id culpa laborum. Fugiat qui amet magna ex sunt eiusmod fugiat non enim do dolor. Anim deserunt sit veniam enim tempor ipsum minim duis culpa reprehenderit. Nulla elit velit ad aute dolor excepteur sit magna exercitation. Exercitation eu excepteur voluptate ad irure esse do ut mollit excepteur proident reprehenderit. Aute minim ipsum occaecat consectetur. Et deserunt nostrud culpa et.\r\n",
+      "tags": ["SLR", "manual", 120, "manual", 120, "35mm", "manual"]
+    },
+    {
+      "_id": "635e476cf2c9b7e46e19f43b",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Occaecat excepteur incididunt voluptate pariatur aliquip et ad nulla minim labore veniam commodo elit ad. Duis officia culpa minim eu tempor. Velit sint tempor sit amet enim incididunt irure adipisicing exercitation veniam anim laborum amet. Sunt nisi consequat in non elit in in. Fugiat id proident sit non culpa.\r\n",
+      "tags": [
+        "SLR",
+        120,
+        120,
+        "point and shoot",
+        "Canon",
+        "auto",
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476c5483773b790d317b",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Leica",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Pariatur elit ex nisi id nostrud laboris nisi. Qui nostrud nulla labore dolore irure. Ipsum aliquip cillum sit dolor elit aliquip id excepteur nostrud in ipsum do tempor. Ea aliqua voluptate officia velit eiusmod fugiat. Labore adipisicing qui aute irure duis id duis pariatur amet veniam aute dolor sit consectetur. Aute cupidatat deserunt quis ea ut non irure aute occaecat adipisicing ex deserunt anim eiusmod. Ex duis velit occaecat sint dolore anim deserunt laboris nisi culpa in laborum sit.\r\n",
+      "tags": [
+        "manual",
+        "manual",
+        "point and shoot",
+        "SLR",
+        "point and shoot",
+        "SLR",
+        "point and shoot"
+      ]
+    },
+    {
+      "_id": "635e476ced919c82c7a864b4",
+      "isFeatured": true,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Dolore deserunt magna cillum laborum mollit voluptate incididunt cupidatat cillum. Dolor duis voluptate incididunt magna. Quis veniam minim proident nulla nulla. Proident veniam consequat fugiat aute cillum sunt voluptate est commodo est. Eiusmod nisi ipsum ea cillum excepteur fugiat excepteur. Velit non sint elit exercitation irure ad enim sint sunt duis.\r\n",
+      "tags": ["35mm", "35mm", "Canon", "SLR", "35mm", "35mm", 120]
+    },
+    {
+      "_id": "635e476cdf886c1d1e57cf8b",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Pentax",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Ut eiusmod laboris cupidatat ipsum nisi. Reprehenderit exercitation voluptate culpa cillum non. Qui tempor ipsum esse esse. Aliquip dolor velit tempor ex dolore nisi sint. Minim enim est eu nisi Lorem nulla laboris in nisi nostrud duis. Culpa eu dolor est mollit minim elit nostrud nulla commodo consectetur nisi ut esse deserunt.\r\n",
+      "tags": [
+        "SLR",
+        "manual",
+        "auto",
+        "auto",
+        "35mm",
+        "point and shoot",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476c3b7a97135fe9a611",
+      "isFeatured": true,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Nikon F",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Amet do magna ea cupidatat adipisicing consequat officia irure dolore. Anim ut labore enim esse nulla excepteur incididunt fugiat ullamco. In ea tempor sit excepteur id. Aliqua est occaecat ad ex voluptate et veniam occaecat. Fugiat eiusmod deserunt aliquip amet. Dolor excepteur ex fugiat commodo culpa aute culpa aliquip est.\r\n",
+      "tags": ["35mm", "Canon", "manual", "manual", "35mm", "Canon", "auto"]
+    },
+    {
+      "_id": "635e476ccb3c8c037d3cfa94",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Minolta",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Sit id laboris commodo enim dolor Lorem duis culpa est. Laboris ea sunt elit elit dolor velit aute veniam do commodo. Reprehenderit tempor sint adipisicing esse esse culpa enim tempor tempor incididunt. Sint sunt do et laboris sunt nisi laboris mollit quis minim ullamco ea. Lorem ut elit officia sunt incididunt cillum. Esse fugiat fugiat sunt qui laboris duis proident deserunt. Cillum cupidatat mollit excepteur id fugiat id tempor esse adipisicing qui laborum fugiat laborum.\r\n",
+      "tags": [
+        "SLR",
+        120,
+        "manual",
+        "point and shoot",
+        "Canon",
+        "auto",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476c5b5cfc1d787064f2",
+      "isFeatured": true,
+      "name": "ZT",
+      "brand": "Nikon",
+      "type": "TLR",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Ex reprehenderit consequat duis excepteur nostrud esse reprehenderit nulla occaecat labore veniam tempor velit. Quis dolor veniam id labore et velit aliqua cillum ullamco nisi cillum nisi. Veniam commodo adipisicing consectetur labore laborum adipisicing velit ex velit laborum. Sit ea reprehenderit nisi in occaecat ut commodo sunt aliqua incididunt ad consequat mollit ipsum.\r\n",
+      "tags": ["auto", 120, "auto", "auto", 120, "auto", "auto"]
+    },
+    {
+      "_id": "635e476cd6cc604fbf94f0db",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Minolta",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Esse sint nisi ex velit incididunt mollit tempor irure ullamco nostrud. Reprehenderit laboris magna cupidatat culpa. Ut ex nisi est adipisicing mollit velit ea do adipisicing incididunt amet adipisicing. Ipsum occaecat ipsum voluptate incididunt adipisicing enim velit anim consectetur labore. Est irure id tempor pariatur nostrud minim qui nulla ut reprehenderit enim aliqua ex commodo. Do aliqua et in fugiat.\r\n",
+      "tags": [
+        "35mm",
+        "Canon",
+        "point and shoot",
+        120,
+        "point and shoot",
+        "SLR",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c68ace7892f275594",
+      "isFeatured": false,
+      "name": "F1",
+      "brand": "Pentax",
+      "type": "TLR",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Ut officia non dolor voluptate id sit magna id ut velit incididunt in sint do. Magna labore commodo cupidatat anim. Adipisicing dolore Lorem in ut labore.\r\n",
+      "tags": ["SLR", "manual", "point and shoot", 120, "35mm", 120, "auto"]
+    },
+    {
+      "_id": "635e476ce46b6525b93f43bc",
+      "isFeatured": false,
+      "name": "ZT",
+      "brand": "Minolta",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "Canon EF",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Velit do non amet commodo. Amet officia sit ad nulla ipsum fugiat. Eu ullamco mollit laboris mollit nisi labore consectetur in aliquip occaecat occaecat consequat sunt.\r\n",
+      "tags": [
+        "Canon",
+        "Canon",
+        "point and shoot",
+        "35mm",
+        "point and shoot",
+        "Canon",
+        "Canon"
+      ]
+    },
+    {
+      "_id": "635e476cb468ddab8f185bd4",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Olympus",
+      "type": "point and shoot",
+      "format": 120,
+      "mount": "Nikon F",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg"
+      ],
+      "power": "aa",
+      "description": "Est nulla velit exercitation pariatur occaecat eiusmod incididunt proident aliqua eiusmod enim. Lorem cillum labore ex enim laboris. Eiusmod laboris ad ea sit ipsum commodo deserunt ut proident aliquip. Ullamco nostrud tempor commodo exercitation irure fugiat.\r\n",
+      "tags": [
+        "point and shoot",
+        "manual",
+        "manual",
+        "auto",
+        "Canon",
+        "Canon",
+        "35mm"
+      ]
+    },
+    {
+      "_id": "635e476c688436149c5891e9",
+      "isFeatured": true,
+      "name": "Bronica 6",
+      "brand": "Nikon",
+      "type": "TLR",
+      "format": "35mm half-frame",
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2015/06/Olympus-Pen-D-1600.jpg"
+      ],
+      "power": "aa",
+      "description": "Ut duis ex Lorem officia ex dolor. Duis ea eu ipsum incididunt. Ullamco pariatur excepteur laborum ea laboris nulla nisi voluptate magna. Proident cillum aliquip dolore voluptate esse minim magna dolore dolore ullamco.\r\n",
+      "tags": [
+        "auto",
+        "SLR",
+        "auto",
+        "35mm",
+        "SLR",
+        "point and shoot",
+        "manual"
+      ]
+    },
+    {
+      "_id": "635e476ca7f7d324b0b3aac7",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Nikon",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Consequat ad reprehenderit minim aliquip nostrud laborum quis et sit incididunt et nisi officia qui. Officia cupidatat labore officia Lorem. Esse proident anim fugiat ullamco. Quis aliqua minim ut aliqua sunt irure duis. Non labore occaecat id ex laborum anim cillum tempor incididunt anim laborum cupidatat anim. Voluptate ea est exercitation minim id sint ullamco voluptate sit qui in. Quis cupidatat duis quis do est.\r\n",
+      "tags": ["Canon", "35mm", 120, "Canon", "manual", "auto", "auto"]
+    },
+    {
+      "_id": "635e476c7f63bdf86f4527c4",
+      "isFeatured": true,
+      "name": "F1",
+      "brand": "Minolta",
+      "type": "SLR",
+      "format": "35mm",
+      "mount": "fixed",
+      "focus": "auto/manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://en.wikipedia.org/wiki/File:Nikon_F4_F4s_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Irure sit ipsum labore quis est in do eu amet deserunt. Nisi sunt irure sint commodo in consectetur Lorem aute Lorem laborum fugiat. Voluptate cillum veniam culpa aliqua ea velit magna tempor. Consequat fugiat tempor sint laborum do commodo amet minim id nulla velit veniam. Officia ullamco occaecat cillum occaecat consectetur ad nulla et cupidatat magna excepteur occaecat. Lorem ut in enim cillum laboris elit veniam deserunt excepteur. Excepteur consectetur reprehenderit commodo mollit dolor.\r\n",
+      "tags": [
+        "35mm",
+        "manual",
+        "point and shoot",
+        "35mm",
+        "Canon",
+        "SLR",
+        "auto"
+      ]
+    },
+    {
+      "_id": "635e476c80eb07c44394ae57",
+      "isFeatured": true,
+      "name": "Super duper camera",
+      "brand": "Pentax",
+      "type": "point and shoot",
+      "format": "35mm",
+      "mount": "Nikon F",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/02/ricoh-xr-1s-1600.jpg",
+        "https://en.wikipedia.org/wiki/Nikon_F4#/media/File:Nikon_F4_Guigiaro_Design_Austin_Calhoon_Photograph.jpg"
+      ],
+      "power": "aa",
+      "description": "Minim deserunt ex et duis sit esse duis ullamco eu. Irure pariatur officia proident incididunt esse quis incididunt nostrud do voluptate nostrud est eu. Id laborum eu amet officia labore cillum qui eu minim cillum. Cillum fugiat aliqua nisi aliqua amet eu id. Nostrud amet fugiat fugiat nostrud. Nisi sint laboris ex laborum occaecat esse cupidatat officia laboris consequat anim reprehenderit.\r\n",
+      "tags": ["SLR", "manual", "35mm", "auto", "35mm", "auto", "manual"]
+    },
+    {
+      "_id": "635e476cb92327b5e0914946",
+      "isFeatured": false,
+      "name": "Zoom Ultra Z30x",
+      "brand": "Canon",
+      "type": "point and shoot",
+      "format": "35mm half-frame",
+      "mount": "Canon EF",
+      "focus": "manual",
+      "images": [
+        "https://rangefinder-cameras.com/wp-content/uploads/2013/05/Yashica-Mat-Illustration-2.jpg",
+        "https://rangefinder-cameras.com/wp-content/uploads/2016/01/Pentax-p30-1600px.jpg"
+      ],
+      "power": "aa",
+      "description": "Esse in cillum qui est ut aliquip Lorem mollit ullamco cillum ipsum laboris dolore. Sit adipisicing nulla ipsum aliqua ut exercitation excepteur et do. Lorem laborum fugiat commodo amet. Nisi proident excepteur ad dolore mollit aliqua amet culpa non. Dolore voluptate ea magna dolor deserunt aliquip exercitation qui est eiusmod anim.\r\n",
+      "tags": ["35mm", "manual", "manual", "manual", 120, "manual", "35mm"]
+    }
+  ]
+}
